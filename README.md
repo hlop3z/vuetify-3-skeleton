@@ -1,5 +1,11 @@
 # Vuetify-3 (Skeleton)
 
+## Download
+
+```sh
+git clone https://github.com/hlop3z/vuetify-3-skeleton
+```
+
 ## Project setup
 
 ```
